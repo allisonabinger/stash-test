@@ -5,3 +5,7 @@ this is the initial commit for child1.
 this is the initial commit for child2.
 
 this is a change in child1.
+
+
+
+here are changes in child2 that will be stashed. 
